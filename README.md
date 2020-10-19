@@ -7,3 +7,5 @@ Bot asks the person that what he want to do and also it will offer a choice of t
 It will respond to the users to input appropriately.....
 
 Block Diagram image : https://drive.google.com/file/d/1HFyrSVAGtO7itCRRJCODEug_ly-YQqQc/view?usp=sharing
+
+A Small and Simple video on my Chatbot : https://youtu.be/JFzbeZeb7tc
